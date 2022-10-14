@@ -1,0 +1,8 @@
+total 20
+-rw-r--r-- 1 dolnadolnadol dolnadolnadol   0 Oct 14 01:48 edit1.txt
+-rw-r--r-- 1 dolnadolnadol dolnadolnadol   0 Oct 14 01:48 edit2.txt
+-rwxr--r-- 1 dolnadolnadol dolnadolnadol   1 Oct 11 14:28 q1.sh
+-rwxr--r-- 1 dolnadolnadol dolnadolnadol 250 Oct 13 11:48 q2.sh
+-rwxr--r-- 1 dolnadolnadol dolnadolnadol 218 Oct 12 01:34 q3.sh
+-rwxr--r-- 1 dolnadolnadol dolnadolnadol 220 Oct 12 03:58 q4.sh
+-rwxr--r-- 1 dolnadolnadol dolnadolnadol  96 Oct 12 04:07 q5.sh
