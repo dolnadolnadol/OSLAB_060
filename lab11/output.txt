@@ -1,0 +1,73 @@
+put 2 size = 1
+Empty, waiting
+2 takes 2
+put 4 size = 1
+put 6 size = 2
+put 8 size = 3
+put 10 size = 4
+put 12 size = 5
+put 14 size = 6
+put 16 size = 7
+put 18 size = 8
+put 20 size = 9
+8 takes 4
+9 takes 6
+put 22 size = 9
+put 24 size = 9
+put 26 size = 10
+Full, waiting
+4 takes 8
+5 takes 10
+6 takes 12
+7 takes 14
+Stop waiting
+3 takes 16
+Stop waiting
+put 28 size = 7
+put 30 size = 8
+put 2 size = 8
+put 4 size = 9
+put 6 size = 10
+Full, waiting
+10 takes 18
+Stop waiting
+put 8 size = 10
+Full, waiting
+Stop waiting
+put 10 size = 10
+Full, waiting
+11 takes 20
+13 takes 22
+12 takes 24
+Stop waiting
+put 12 size = 9
+put 14 size = 2
+21 takes 10
+20 takes 8
+19 takes 6
+18 takes 4
+14 takes 26
+17 takes 30
+16 takes 28
+15 takes 2
+put 16 size = 2
+22 takes 12
+put 18 size = 2
+put 20 size = 3
+put 22 size = 4
+put 24 size = 5
+put 26 size = 6
+23 takes 14
+put 28 size = 6
+24 takes 16
+put 30 size = 7
+25 takes 18
+26 takes 20
+27 takes 22
+28 takes 24
+29 takes 26
+30 takes 28
+31 takes 30
+chief no. 0 cooks 15
+chief no. 1 cooks 15
+bye
